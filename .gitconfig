@@ -1,0 +1,5 @@
+[user]
+	email = pavelsmal@gmail.com
+	name = Paul Small
+[init]
+	templatedir = ~/.git-templates
