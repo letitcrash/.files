@@ -99,5 +99,5 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
-alias dotfiles='/usr/bin/git --git-dir=/home/rzsa/Repos/dotfiles/ --work-tree=/home/rzsa'
+alias dotfiles='/usr/bin/git --git-dir=/home/rzsa/Code/dotfiles/ --work-tree=/home/rzsa'
 alias iex='iex --erl "-kernel shell_history enabled"'
