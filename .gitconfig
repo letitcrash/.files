@@ -3,3 +3,5 @@
 	name = Paul Small
 [init]
 	templatedir = ~/.git-templates
+[alias]
+	dotfiles = !git --git-dir=$HOME/Code/dotfiles --work-tree=$HOME
