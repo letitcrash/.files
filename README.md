@@ -1,5 +1,4 @@
 # dotfiles
-neovim, tmux 
 
 ```
 git clone --bare git@github.com:letitcrash/dotfiles.git ~/.files
